@@ -1,0 +1,24 @@
+# eclipse specific
+.metadata
+bin/**
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/
+.loadpath
+.buildpath
+.settings/org.eclipse.cdt.core.prefs
+
+.project
+
+Debug/
+Release/
+build/
+
+# Locally stored "Eclipse launch configurations"
+*.launch
